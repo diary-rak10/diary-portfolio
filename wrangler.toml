@@ -1,6 +1,4 @@
 name = "diary-portfolio"
+type = "javascript"
 
-
-# Indique où OpenNext met les fichiers build
 pages_build_output_dir = ".open-next"
-
