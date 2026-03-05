@@ -1,4 +1,2 @@
 name = "diary-portfolio"
-
-
-pages_build_output_dir = ".open-next"
+pages_build_output_dir = ".open-next/assets"  # Ajoutez /assets
