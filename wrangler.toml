@@ -1,0 +1,14 @@
+name = "diary-portfolio"
+type = "javascript"
+
+# Remplace par ton Account ID Cloudflare
+account_id = "5d99b9c1840ba8e535a315d20dcaa439"
+
+workers_dev = true
+compatibility_date = "2026-03-05"
+
+# Indique où OpenNext met les fichiers build
+pages_build_output_dir = ".open-next"
+
+[build]
+command = "npm run build"
